@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+*.eggs/
+*.manifest
+*.spec
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter & Streamlit
+.ipynb_checkpoints/
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs & temp files
+*.log
+*.out
+*.tmp
+*.swp
+*.swo
+*~
+*.bak
+
+# Cache
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# Environment variables
+.env
+*.env
+
+# Project-specific
+logs/
+temp/
+uploads/
